@@ -1,0 +1,8 @@
+OrderID,OrderDate,Decision,Reason
+ORD002,2025-01-02,Approve,Sufficient inventory and capacity
+ORD001,2025-01-02,Approve,Sufficient inventory and capacity
+ORD004,2025-01-03,Split,Only 20 units can be fulfilled today
+ORD003,2025-01-03,Split,Only 180 units can be fulfilled today
+ORD007,2025-01-04,Split,Only 70 units can be fulfilled today
+ORD005,2025-01-04,Split,Only 100 units can be fulfilled today
+ORD006,2025-01-04,Split,Only 30 units can be fulfilled today
